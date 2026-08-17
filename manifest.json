@@ -1,7 +1,7 @@
 {
   "name": "Talha's Physics Academy",
   "short_name": "Physics Academy",
-  "description": "Clear physics and chemistry lessons, solved numericals and exam guides for Class 9, 10, 11, 12 - Sindh & Federal Board.",
+  "description": "Clear physics and chemistry lessons for Class 9-12",
   "start_url": "https://talhaphysicsacademy.blogspot.com/",
   "scope": "https://talhaphysicsacademy.blogspot.com/",
   "display": "standalone",
@@ -9,7 +9,6 @@
   "theme_color": "#0d47a1",
   "orientation": "any",
   "lang": "en",
-  "dir": "ltr",
   "icons": [
     {
       "src": "https://talhaphysicsacademy.github.io/pwa/icon-192.png",
