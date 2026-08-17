@@ -1,26 +1,22 @@
 {
   "name": "Talha's Physics Academy",
   "short_name": "Physics Academy",
-  "description": "Clear physics and chemistry lessons for Class 9-12",
+  "description": "Physics and Chemistry for Class 9-12",
   "start_url": "https://talhaphysicsacademy.blogspot.com/",
   "scope": "https://talhaphysicsacademy.blogspot.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d47a1",
-  "orientation": "any",
-  "lang": "en",
   "icons": [
     {
-      "src": "https://talhaphysicsacademy.github.io/pwa/icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
-      "src": "https://talhaphysicsacademy.github.io/pwa/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
