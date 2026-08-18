@@ -1,50 +1,28 @@
-"id"
-:
-"/",
-"name"
-:
-"Talha's Physics Academy",
-"short_name"
-:
-"Physics Academy",
-"description"
-:
-"Clear physics and chemistry lessons, solved numericals and exam guides for Class 9, 10, 11, 12 - Sindh & Federal Board.",
-"start_url"
-:
-"https://talhaphysicsacademy.blogspot.com/",
-"scope"
-:
-"https://talhaphysicsacademy.blogspot.com/",
-"display"
-:
-"standalone",
-"orientation"
-:
-"any",
-"background_color"
-:
-"#ffffff",
-"theme_color"
-:
-"#0d47a1",
-"lang"
-:
-"en",
-"dir"
-:
-"ltr",
-▶
-"icons"
-:
-[
-▶
 {
-4 keys
-},
-▶
-{
-4 keys
-}
-]
+  "id": "/",
+  "name": "Talha's Physics Academy",
+  "short_name": "Physics Academy",
+  "description": "Clear physics and chemistry lessons, solved numericals and exam guides for Class 9, 10, 11, 12 - Sindh & Federal Board.",
+  "start_url": "https://talhaphysicsacademy.blogspot.com/",
+  "scope": "https://talhaphysicsacademy.blogspot.com/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#0d47a1",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
